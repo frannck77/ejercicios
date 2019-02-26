@@ -3,8 +3,7 @@ y luego mostrarlo por 'Alert' al presionar el botón  'mostrar'*/
 function mostrar()
 {
     var ID
-
-ID=document.getElementById.value
+    ID=document.getElementById("elNombre").value
 
 alert (ID) ;
 }
